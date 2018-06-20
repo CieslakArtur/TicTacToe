@@ -1,4 +1,4 @@
-# TicTacToe<br><br>
+# TicTacToe
 <p align="center" style="display:block;">
   <img src="https://image.ibb.co/k74MfJ/t1.jpg"/>
 </p>
